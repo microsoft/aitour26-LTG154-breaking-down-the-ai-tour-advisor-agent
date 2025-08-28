@@ -10,13 +10,9 @@ Prior to delivering the workshop please:
 
 
 ## 📁 File Summary
-
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| Workshop Slide Deck      |  [Presentation](https://aka.ms/)  | Presentation slides for this workshop with presenter notes and embedded demo video |
 | Session Delivery Deck     |  [Deck](https://aka.ms/) | The session delivery slides |
-| More Files     |  [Some More Files](https://aka.ms/) | More File Descriptions |
-
 
 ## 🚀Get Started
 
@@ -26,12 +22,10 @@ The workshop is divided into multiple sections including 16 slides, 1 demo and 2
 
 | Time        | Description 
 --------------|-------------
-0:00 - 5:00   | Intro and overview
-5:00 - 70:00  | Session Steps
-70:00 - 75:00 | Wrap up and Q&A
-
-### 🏋️Preparation
-Preparation Notes go here
+0:00 - 0:02   | Intro and overview
+0:02 - 0:05  | Demo
+0:05 - 0:10 | Architecture
+0:10 - 0:25  | Code demos
 
 ### 🖥️Demos
 Description of demos goes here
