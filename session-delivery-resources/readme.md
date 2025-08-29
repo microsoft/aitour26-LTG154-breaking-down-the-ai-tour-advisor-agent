@@ -23,9 +23,9 @@ The workshop is divided into multiple sections including 16 slides, 1 demo and 2
 | Time        | Description 
 --------------|-------------
 0:00 - 0:02   | Intro and overview
-0:02 - 0:05  | Demo
-0:05 - 0:10 | Architecture
-0:10 - 0:25  | Code demos
+0:02 - 0:05   | Demo
+0:05 - 0:07   | Architecture
+0:07 - 0:15  | Code demos
 
 ### 🖥️Demos
 Description of demos goes here
