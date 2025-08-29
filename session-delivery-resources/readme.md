@@ -12,7 +12,7 @@ Prior to delivering the workshop please:
 ## 📁 File Summary
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| Session Delivery Deck     |  [Deck](https://aka.ms/) | The session delivery slides |
+| Session Delivery Deck     |  [Deck](http://aka.ms/AAxrjhx) | The session delivery slides |
 
 ## 🚀Get Started
 
