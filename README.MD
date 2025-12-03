@@ -9,7 +9,7 @@
 [![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/Pwpvf3TWaw)](https://aka.ms/MicrosoftFoundryDiscord-AITour26)
 [![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/MicrosoftFoundryForum-AITour26)
 
-If you will be delivering this session, check the [session-delivery-sources](./session-delivery-resources/) folder for slides, scripts, and other resources.
+This repository is now archived, but you can stay up to date with the latest from the Microsoft AI Tour at [https://aitour.microsoft.com](https://aitour.microsoft.com) and [https://aka.ms/AITour26-Resource-Center](https://aka.ms/AITour26-Resource-Center).
 
 ### Session Description
 
